@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: master
-  repo: "https://github.com/TinyChief/gridsome-netlify-cms"
+  repo: "TinyChief/gridsome-netlify-cms"
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 collections:
